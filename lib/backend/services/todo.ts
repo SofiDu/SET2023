@@ -6,6 +6,8 @@ class Todo {
   }
 
   /* Add your todo methods here */
+  //delete(){
+  //}
 }
 
 // Todo Service lifecycle management
